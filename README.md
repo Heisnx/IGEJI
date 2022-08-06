@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C++, express.js
 - 💞️ I’m looking to collaborate on nothing as of yet
 - 📫 How to reach me alitheboy66@gmail.com - my email, IGEJI#1721 - on Discord
+- Speaks: English, Russian, Ukrainian, Azerbaijani
 
 <!---
 IGEJI/IGEJI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
