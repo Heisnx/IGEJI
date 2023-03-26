@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IGEJI
+- 👋 Hi, I’m @Heisx
 - 👀 I’m interested in coding (working on Python and JavaScript for coding languages, Node.js, HTML, CSS and TypeScript for extra)
 - 🌱 I’m currently learning C++, express.js
 - 💞️ I’m looking to collaborate on nothing as of yet
