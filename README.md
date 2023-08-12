@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Heisx
+- 👋 Hi, I’m @Heisтx
 - 👀 I’m interested in coding (working on Python and JavaScript for coding languages, Node.js, HTML, CSS and TypeScript for extra)
 - 🌱 I’m currently learning C++ (on halt)
 - 💞️ Open for collaboration
